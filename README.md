@@ -23,3 +23,6 @@ Example
 To output the results to a file for further analysis, you can use :
 
 python openredirexss.py -u http://site.com/signin/HERE/signin --openredirect no -w /path/to/payload >> file.txt
+
+![image](https://github.com/user-attachments/assets/09fe9a18-bd7b-4634-ba9f-f6d249f7abc6)
+
